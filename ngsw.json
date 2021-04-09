@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617945547442,
+  "timestamp": 1617946065465,
   "index": "/ArthSethu/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ArthSethu/favicon.ico",
         "/ArthSethu/index.html",
-        "/ArthSethu/main.a57ba04b04dc0bdb67fb.js",
+        "/ArthSethu/main.e9a57a844df233c9e75b.js",
         "/ArthSethu/manifest.webmanifest",
         "/ArthSethu/polyfills.94daefd414b8355106ab.js",
         "/ArthSethu/runtime.7b63b9fd40098a2e8207.js",
@@ -54,8 +54,8 @@
     "/ArthSethu/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/ArthSethu/assets/offline.html": "d0ff836cdd2ccb1341a91b13337cd3fca0246376",
     "/ArthSethu/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ArthSethu/index.html": "6a5aee66888dd91fd9bf4d1239df22dd695946ad",
-    "/ArthSethu/main.a57ba04b04dc0bdb67fb.js": "1146e81f33e3f5a5329aaee905c1be52ba099290",
+    "/ArthSethu/index.html": "62b3888ee1a2412962e254080fd8c73490817e6e",
+    "/ArthSethu/main.e9a57a844df233c9e75b.js": "5fdf35bbe1a5b7ad99d86b1bc3d53c3e4f378e09",
     "/ArthSethu/manifest.webmanifest": "85b51b6f994be5e756a5b2495fd8dbe0dab93fce",
     "/ArthSethu/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/ArthSethu/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
